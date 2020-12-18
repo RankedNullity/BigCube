@@ -27,7 +27,7 @@ Looking at flattened representations of cubes is quite boring, so we've implemen
 
 *This is what we came here for.*
 
-The rotationg cube is just for demoing purposes. This can obviously be turned off. Moves made on the cube Cubes can also be animated like so:
+The rotating cube is just for demoing purposes. This can obviously be turned off. Moves made on the cube can also be animated like so:
 
 ![](devnotes/AnimationDemo.gif)
 *These can be disabled as well for drasitically better performance times.*
