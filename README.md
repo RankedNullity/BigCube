@@ -38,6 +38,6 @@ The rotationg cube is just for demoing purposes. This can obviously be turned of
 Lastly, an important thing we want to do is being able to compare the performance of two different solvers, preferably side by side. Therefore, the graphics engine was designed to allow this extremely easily.
 
 
-![](devnotes\32ScenesDemo.gif)
+![](devnotes/32ScenesDemo.gif)
 *Demo of having 32 simultaneous solvers in action with animations disabled.*
 
